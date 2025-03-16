@@ -20,9 +20,13 @@ E-commerce Integrations: Shopify, WooCommerce, WordPress, Prestashop, BigCommerc
 
 🔹 Passionate About:
 
+
 Improving test automation efficiency 🔄
+
 Ensuring seamless integrations across platforms 🔗
+
 Driving quality improvements in the SDLC 🚀
+
 
 
 🚀 I’m open to new job opportunities! Looking for exciting roles in test automation, QA engineering, or software quality assurance. Feel free to reach out!
