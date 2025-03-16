@@ -1,6 +1,6 @@
 🚀 Welcome to My GitHub!
 
-Hi there! 👋 I'm a Certified QA Engineer (ISTQB) with 4+ years of experience in quality assurance, test automation, and API validation. I’m passionate about delivering high-quality software through automated testing, optimized test coverage, and continuous improvements in test processes.
+Hi there! 👋 My name is Emilia, I'm a Certified QA Engineer (ISTQB) with 4+ years of experience in quality assurance, test automation, and API validation. I’m passionate about delivering high-quality software through automated testing, optimized test coverage, and continuous improvements in test processes.
 
 💻 About Me
 
