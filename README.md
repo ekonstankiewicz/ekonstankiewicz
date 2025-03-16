@@ -8,10 +8,15 @@ Hi there! 👋 I'm a Certified QA Engineer (ISTQB) with 4+ years of experience i
 
 🔹 Expertise in:
 
+
 Test Automation: Playwright, JS/TS
+
 API Testing: Postman, Playwright
+
 Test Management: TestRail, Jira
+
 E-commerce Integrations: Shopify, WooCommerce, WordPress, Prestashop, BigCommerce etc.
+
 
 🔹 Passionate About:
 
