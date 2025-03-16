@@ -3,7 +3,7 @@
 Hi there! 👋 My name is Emilia, I’m a Certified QA Engineer (ISTQB) with 4+ years of experience in test automation, API validation, and software quality assurance. Passionate about delivering high-quality software through automated testing, optimized test coverage, and process improvements, I specialize in Playwright, TypeScript, and API testing.
 
 
-## Currently, I’m working at Tidio, where I:
+## Currently, I’m working at company, where I:
 
 ✅ Develop and maintain automated test suites using Playwright & TypeScript to ensure fast and reliable software releases.
 
