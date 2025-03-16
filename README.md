@@ -24,4 +24,4 @@ Driving quality improvements in the SDLC 🚀
 
 📫 Let's Connect!
 
-🔗[LinkedIn](https://www.linkedin.com/in/emilia-konstankiewicz/)) | ✉️ [Mail](mailto:ekonstankiewicz@gmail.com)
+🔗[LinkedIn](https://www.linkedin.com/in/emilia-konstankiewicz/) | ✉️ [Mail](mailto:ekonstankiewicz@gmail.com)
