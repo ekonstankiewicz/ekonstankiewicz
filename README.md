@@ -5,7 +5,7 @@ Hi there! 👋 My name is Emilia, I’m a Certified QA Engineer (ISTQB) with 4+ 
 
 ### Currently I'm contributing as a QA Engineer, building and maintaining automated tests for web applications. 
 
-## My main responsibilities:
+## 🎭 My main responsibilities:
 
 ✅ Develop and maintain automated test suites using Playwright & TypeScript to ensure fast and reliable software releases.
 
